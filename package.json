@@ -1,0 +1,19 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "hello nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhgames78/hello.git"
+  },
+  "author": "Nguyen Tuan Anh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhgames78/hello/issues"
+  },
+  "homepage": "https://github.com/anhgames78/hello#readme"
+}
