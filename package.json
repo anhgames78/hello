@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/anhgames78/hello/issues"
   },
-  "homepage": "https://github.com/anhgames78/hello#readme"
+  "homepage": "https://github.com/anhgames78/hello#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
